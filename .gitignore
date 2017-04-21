@@ -1,0 +1,65 @@
+ass
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+#*.jar
+*.war
+*.ear
+.DS_Store
+
+!src/main/resources/META-INF/lib/*.jar
+
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+
+src/main/resources/META-INF/persistence.xml
+target/classes/META-INF/persistence.xml
+
+###############
+## Eclipse ####
+###############
+#.classpath
+#.project
+#.settings/*
+build/*
+
+.tern-project
+functional-tests/*
+
+###############
+## Gradle  ####
+###############
+.gradle/*
+gradle/*
+!.gradle/generating_template/
+gradlew
+gradlew.bat
+
+###############
+## NodeJs  ####
+###############
+node_modules/*
+
+###############
+## AngularJs ##
+###############
+app/core/client/lib/*
+
+###############
+## TEMPLATES ##
+###############
+
+target/*
+src/main/webapp/theme/AdminLTE-2.3.7/documentation/*
+src/main/webapp/theme/AdminLTE-2.3.7/build/*
+src/main/webapp/theme/AdminLTE-2.3.7/dist/*
+src/main/webapp/theme/AdminLTE-2.3.7/bower_components/*
+src/main/webapp/theme/AdminLTE-2.3.7/node_modules/*
+
+doc-repo/java-spring.juth.bak
+/target/
+
+
