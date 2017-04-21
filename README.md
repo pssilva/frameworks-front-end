@@ -21,10 +21,8 @@ Execute os comandos abaixo:
 4. path WildFly: `echo "export WILDFLY_HOME=/[PATH_TO]/wildfly-10.1.0.Final" >> ~/.bash_profile`;
 5. source path: `source ~/.bash_profile`;
 6. start WildFly: `nohup $WILDFLY_HOME/bin/./standalone.sh > /dev/null 2>&1 & `;
-7. Em outro terminal, deploy: `source ~/.bash_profile && nohup $WILDFLY_HOME/bin/jboss-cli.sh --connect --command="deploy --force target/java-framework-spring.war" > /dev/null 2>&1 & `;
+7. Em outro terminal, deploy: `source ~/.bash_profile && nohup $WILDFLY_HOME/bin/jboss-cli.sh --connect --command="deploy --force target/frameworks-front-end.war" > /dev/null 2>&1 & `;
 8. acessar o link: `localhost:8080/frameworks-front-end/`;
-
-
 
 
 ### Referência
