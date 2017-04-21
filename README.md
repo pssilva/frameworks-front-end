@@ -21,6 +21,9 @@ Execute os comandos abaixo:
 4. path WildFly: `echo "export WILDFLY_HOME=/[PATH_TO]/wildfly-10.1.0.Final" >> ~/.bash_profile`;
 5. start WildFly: `$WILDFLY_HOME/bin/./standalone.sh`;
 6. Em outro terminal, deploy: `$WILDFLY_HOME/bin/jboss-cli.sh --connect --command="deploy --force target/frameworks-front-end.war"`;
+7. acessar o link: `localhost:8080/frameworks-front-end/`;
+
+
 
 
 ### Referência
