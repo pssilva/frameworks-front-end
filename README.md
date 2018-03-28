@@ -31,5 +31,7 @@ Execute os comandos abaixo:
 \[Gion Kunz: 2016\], Packt Publishing Ltd., [Mastering Angular 2 Components](https://www.packtpub.com/web-development/mastering-angular-2-components) <br />
 \[Patrick Mulder: 2014\], O’Reilly Media, Inc., [Full Stack Web Development with Backbone.js](https://www.amazon.com/Full-Stack-Web-Development-Backbone-js/dp/1449370985) <br />
 \[Swarnendu De: 2014\], Packt Publishing Ltd., [Backbone.js Patterns and Best Practices](https://www.packtpub.com/application-development/backbonejs-patterns-and-best-practices): A one-stop guide to best practices and design patterns when building applications using Backbone.js <br />
-\[Artemij Fedosejev: 2015\], Packt Publishing Ltd., [React.js Essentials](https://www.packtpub.com/web-development/reactjs-essentials): A fast-paced guide to designing and building scalable and maintainable web apps with React.js
+\[Artemij Fedosejev: 2015\], Packt Publishing Ltd., [React.js Essentials](https://www.packtpub.com/web-development/reactjs-essentials): A fast-paced guide to designing and building scalable and maintainable web apps with React.js<br />
+\[Jorge Ferrando: 2015\], Packt Publishing Ltd., [KnockoutJS Essentials](https://www.amazon.com/Knockout-JS-Essentials-Jorge-Ferrando/dp/1784397075): Implement a successful JavaScript-rich application with KnockoutJS, jQuery, and Bootstrap<br />
+\[Suchit Puri: 2015\], Packt Publishing Ltd., [Ember.js Web Development with Ember CLI](https://www.packtpub.com/web-development/emberjs-web-development-ember-cli): Build ambitious single-page web applications using the power of Ember.js and Ember CLI<br />
 

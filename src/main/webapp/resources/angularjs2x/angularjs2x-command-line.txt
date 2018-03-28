@@ -1,0 +1,46 @@
+
+
+mkdir angularjs2x
+cd angularjs2x
+npm init
+
+########################
+# Install Dependences ##
+########################
+npm install @angular/common @angular/core @angular/compiler --save
+npm install @angular/platform-browser @angular/platform-browser-dynamic --save 
+npm install @angular/http --save
+npm install es6-shim reflect-metadata rxjs zone.js --save
+
+
+npm install systemjs --save
+npm install bootstrap --save
+
+########################
+# Install TypeScript ###
+########################
+npm install -g typescript 
+
+
+########################
+# Init Project #########
+########################
+tsc --init --experimentalDecorators --emitDecoratorMetadata --target ES5 --module system --moduleResolution node 
+
+
+########################
+# Install typings ######
+########################
+npm install -g typings
+#typings install es6-shim --global --save
+typings install dt~es6-shim --save --global
+
+npm install -g lite-server
+
+
+
+
+########################
+# Install ????? ##
+########################
+

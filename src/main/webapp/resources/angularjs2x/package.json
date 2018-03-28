@@ -1,0 +1,34 @@
+{
+  "name": "angularjs2x",
+  "version": "1.0.0",
+  "description": "Application AngularJs 2.x",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "AngularJs2",
+    "Node.js",
+    "AngularJs",
+    "MongoDB"
+  ],
+  "author": "Paulo Sergio da Silva",
+  "license": "ISC",
+  "dependencies": {
+    "@angular/common": "^4.0.3",
+    "@angular/compiler": "^4.0.3",
+    "@angular/core": "^4.0.3",
+    "@angular/http": "^4.0.3",
+    "@angular/platform-browser": "^4.0.3",
+    "@angular/platform-browser-dynamic": "^4.0.3",
+    "bootstrap": "^3.3.7",
+    "es6-shim": "^0.35.3",
+    "reflect-metadata": "^0.1.10",
+    "rxjs": "^5.3.0",
+    "systemjs": "^0.20.12",
+    "zone.js": "^0.8.8"
+  },
+  "devDependencies": {
+    "@types/core-js": "^0.9.41"
+  }
+}
