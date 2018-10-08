@@ -1,8 +1,17 @@
 Frameworks Front-end
 ==============================================================
 
-Frameworks Front-end Web Modernos (AngularJs, Backbone, Spine, Knockout, EmberJs, React.js).
+Frameworks Front-end Web Modernos (AngularJs, Angular 5+, Backbone, Spine, Knockout, EmberJs, React.js).
 Usando como template o AdminLTE. Projeto conceito com back-end Spring Framework.
+
+#### <sub> Status: Trabalho em Progresso </sub>
+<sub> Status do projeto como trabalho em progresso contínuo. Assim, se aplica os conceitos de aprendizagem continuada. </sub><br />[![Build Status](https://travis-ci.org/gdi2290/angular-starter.svg?branch=master)](https://github.com/pssilva/frameworks-front-end) 
+[![Dependency Status](https://david-dm.org/gdi2290/angular-starter.svg)](https://github.com/pssilva/frameworks-front-end)
+
+>Feito é melhor que perfeito!! 
+><sub> <cite> [Sherryl Sandberg](http://www.allanperon.com.br/feito-e-melhor-que-perfeito) <cite> </sub>
+
+
 
 ### Adquirir Proficiências em Habilidades
 
