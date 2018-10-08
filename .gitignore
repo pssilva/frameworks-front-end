@@ -62,4 +62,4 @@ src/main/webapp/theme/AdminLTE-2.3.7/node_modules/*
 doc-repo/java-spring.juth.bak
 /target/
 
-
+*package-lock.json
